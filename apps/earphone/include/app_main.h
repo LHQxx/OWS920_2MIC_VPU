@@ -42,7 +42,7 @@
 #define MMI_CC_LINKKEY_MISSING_CANCEL_RECON          1
 
 #define MMI_CC_SPP_BLE_ENABLE                        1
-#define MMI_CC_FIRMWARE_VERSION_BUILD	  0x1003
+#define MMI_CC_FIRMWARE_VERSION_BUILD	  0x2003
 #define MMI_VEI_X_APP 03
 
 #define MMI_CC_SHIPPING_MODE                         1
