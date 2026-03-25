@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "console": "externalTerminal",
+      "cwd": "d:/sdk工程/VPU/708双mic_VPU(海威特)/708双mic_VPU(海威特)/SDK/audio/framework/nodes",
+      "program": "d:/sdk工程/VPU/708双mic_VPU(海威特)/708双mic_VPU(海威特)/SDK/audio/framework/nodes/build/Debug/outDebug"
+    }
+  ]
+}
