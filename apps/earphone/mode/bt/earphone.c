@@ -1362,7 +1362,7 @@ int bt_mode_init()
 
 bool bt_mode_is_try_exit()
 {
-    return (g_bt_hdl.wait_exit > 0)	? true : false;
+    return (g_bt_hdl.wait_exit > 0)	? true : false; 
 }
 
 int bt_mode_try_exit()
