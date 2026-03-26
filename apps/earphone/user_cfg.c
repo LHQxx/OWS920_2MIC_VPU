@@ -177,7 +177,7 @@ void cfg_file_parse(u8 idx)
 #endif
 
 #if MMI_CC_BT_NAME_ENCRYPTION
-	const char edr_name[LOCAL_NAME_LEN]="BR50_1+1_VPU";
+	const char edr_name[LOCAL_NAME_LEN]="BR50_1+1MIC_VPU";
 	//const char edr_name[LOCAL_NAME_LEN]="JL7086D_VPU";
 	int bt_modify_name(u8 *new_name);
 	bt_modify_name((u8 *)edr_name);
